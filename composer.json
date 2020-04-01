@@ -3,14 +3,12 @@
     "description": "Laravel 5.5+ helper and VueJS 2 component for lab404/laravel-impersonate",
     "keywords": ["laravel", "vuejs", "impersonate", "lab404"],
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Owen Melbourne",
-            "email": "owenmelbz@gmail.com"
-        }
-    ],
+    "authors": [{
+        "name": "Owen Melbourne",
+        "email": "owenmelbz@gmail.com"
+    }],
     "require": {
-        "illuminate/support": "5.*",
+        "illuminate/support": "7.*",
         "lab404/laravel-impersonate": "1.*"
     },
     "autoload": {
